@@ -8,7 +8,7 @@ You can refer to the solutions we posted in the
 [solution branch](https://github.com/wdi-sf-fall/sequelize_blog_lab/tree/solution)
 of the `sequelize_blog_lab`.
 
-The stretch goal/ bonus is to extend yesterday's lab to allow your
+The stretch goal / bonus is to extend yesterday's lab to allow your
 posts to have tags. You can refer to the in-class example of a
 many-to-many relationship we posted today.
 
